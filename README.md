@@ -5,6 +5,8 @@ If you want to disable Windows Defender then this video is for you, if you are i
 
 ------------------
 
+Note: This is for windows 10 Pro and above
+
 Go to search "gpedt"
 
 Next click to "edit group policy"
@@ -16,6 +18,7 @@ Look for turn off windows defender antivirus
 Select Enabled 
 
 --------------------
+Note: This is for windows 10 Home
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
 
