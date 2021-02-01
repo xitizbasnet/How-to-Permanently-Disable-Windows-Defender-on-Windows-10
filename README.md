@@ -5,6 +5,10 @@ If you want to disable Windows Defender then this video is for you, if you are i
 
 ------------------
 
+Go to search "gpedt"
+
+Next click to "edit group policy"
+
 Computer Configuration / Administrative Templates / Windows Components / Windows Defender Antivirus
 
 Look for turn off windows defender antivirus 
