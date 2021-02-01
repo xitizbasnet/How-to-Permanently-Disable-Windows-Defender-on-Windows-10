@@ -1,7 +1,7 @@
 # How-to-Permanently-Disable-Windows-Defender-on-Windows-10
 How to Permanently Disable Windows Defender on Windows 10
 
-If you want to disable Windows Defender then this video is for you, if you are installing Bidefender of other antivirus software, this should disable Windows Defender for you automatically. If you want to disable windows disable it manually then I will show you  how. 
+If you want to disable Windows Defender then this inforamtion is for you, if you are installing Bidefender of other antivirus software, this should disable Windows Defender for you automatically. If you want to disable windows disable it manually then I will show you  how. 
 
 ------------------
 
